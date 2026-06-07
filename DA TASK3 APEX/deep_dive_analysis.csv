@@ -1,0 +1,7 @@
+Is_Weekend,item_category,Total_Revenue,AOV,Transaction_Count,Total_Quantity,Day_Type
+False,Beverage,25616.5,7.76,3302,9723,Weekday
+False,Food,31089.0,9.58,3244,9491,Weekday
+False,Other,6161.03,8.6,716,2079,Weekday
+True,Beverage,9375.0,7.69,1219,3600,Weekend
+True,Food,12218.0,9.65,1266,3696,Weekend
+True,Other,2107.3,8.33,253,724,Weekend

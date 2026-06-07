@@ -1,0 +1,8 @@
+KPI,Value,Formula
+Total Revenue,"$86,566.83",SUM(total_spent)
+Average Order Value,$8.66,Revenue/COUNT(transactions)
+Total Transactions,"10,000",COUNT(transaction_id)
+Weekend AOV,$8.66,AVG(weekend total_spent)
+Weekday AOV,$8.66,AVG(weekday total_spent)
+Top Category,Food,MAX(revenue by category)
+Weekend Lift %,-0.0%,(Weekend AOV/Weekday AOV - 1)*100
